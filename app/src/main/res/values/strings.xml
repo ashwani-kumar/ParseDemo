@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MVCDemo</string>
+
+    <string name="hello_world">Login</string>
+    <string name="action_update">Update</string>
+    <string name="action_logout">Logout</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="user_name">User name</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_update">Update Status</string>
+</resources>
